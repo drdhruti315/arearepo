@@ -1,0 +1,24 @@
+{
+  "name": "areapkg",
+  "version": "0.1.0",
+  "description": "Calculates area of Shapes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdhruti315/arearepo.git"
+  },
+  "keywords": [
+    "rectangle",
+    "area",
+    "calculate"
+  ],
+  "author": "dhruti <drdhruti315@gmail.com> (https://github.com/drdhruti315)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drdhruti315/arearepo/issues"
+  },
+  "homepage": "https://github.com/drdhruti315/arearepo#readme"
+}
